@@ -1,0 +1,17 @@
+Week_1:
+  advertising:
+    path:
+      Week1/datasets/advertising.csv
+    columns:
+      features:
+        - TV
+        - Radio
+        - Newspaper
+      label:
+        Sales
+    answer:
+      Week1/answers/advertising
+Week_2:
+  task_2:
+    answer:
+          Week2/answers
